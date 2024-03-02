@@ -1,4 +1,4 @@
-# Clipnotes 
+# Clipnotes 📚📖
  Your Ultimate Study Companion
 
 [![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
@@ -6,43 +6,40 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
-Project is live at :- [WellnessAI Advisior](https://wellnessai.streamlit.app/)
+Project is live at :- [Clipnotes](https://clipnotes.streamlit.app/)
+
 ## 🚀 Brief Idea
-Welcome to WellnessAI Advisior, your personal nutritionist powered by Google's Gemini Pro Vision API. This project demonstrates the fusion of nutrition and artificial intelligence, offering users a tool to analyze meal images and receive detailed nutritional insights.
+ClipNotes is a powerful tool designed to revolutionize the way you consume online video content. With just a YouTube URL, ClipNotes generates concise summaries of videos, saving you valuable time and enhancing your learning experience.
 
-## 🌿 Features
-**Gemini Pro Vision API Integration:** Leverage the power of Google's Gemini Pro Vision API to analyze and interpret meal images.
+## Key Features 🤓
+**Instant Summarization:** Quickly generate summaries of YouTube videos.<br/>
+**Time-Saving:** Extract key insights without watching entire videos.<br/>
+**Enhanced Productivity:** Streamline your learning process and boost efficiency.<br/>
+**User-Friendly Interface:** Intuitive design for seamless navigation and usage.
 
-**Nutritional Breakdown:** Get a comprehensive breakdown of nutritional content for each component of a meal.
-
-**Health Assessment:** Determine the overall healthiness of a meal with percentage splits of carbohydrates, proteins, fats, sugar, and total calories.
-
-**Personalized Suggestions:** Receive tailored suggestions on items to remove and add, enhancing the nutritional profile of your meals.
-
+## How to Use 🧠 
+- Paste the YouTube URL into ClipNotes.
+- Click "Generate Summary" to receive instant notes.
+- Dive into the essential content and optimize your learning.
 
 ## ✨Tech Stack
 
-**Scripting Language:** Python
-**Deployment partner:** Streamlit
+**Scripting Language:** Python<br/>
+**Deployment partner:** Streamlit<br/>
+**API USED:** Gemini Pro API
 
 ## 🔴 Video Demo!
-Project demo :- [Click Here](https://youtu.be/HahL1pftYGQ)
+Project demo :- [Click Here](https://youtu.be/aZOlsyCN6r4)
 
-<img src="https://github.com/AdityaWadkar/WellnessAI-Achiever/assets/67093170/5e9d3010-81ef-4e4b-af3f-ea54db672e1a">
+<img src="https://github.com/AdityaWadkar/Clipnotes-youtube/assets/67093170/7d4f6a0c-0f51-44f7-9301-527741ce5307">
 
 
 ## 💫 Getting Started 
-Clone the repository: git clone https://github.com/AdityaWadkar/WellnessAI-Achiever.git
-
-Install dependencies: pip install -r requirements.txt
-
-Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, and set it as an environment variable.
+- Clone the repository: git clone https://github.com/AdityaWadkar/Clipnotes-youtube.git<br/>
+- Install dependencies: pip install -r requirements.txt<br/>
+- Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, and set it as an environment variable.
 
 
-## 🪴 Usage
-Run the Streamlit app: streamlit run wellnessai_advisior.py
-Upload an image of your meal.
-Click the "Tell me about my meal" button to receive nutritional insights.
 
 ## 👥 Contributing
 
@@ -50,8 +47,7 @@ Contributions are welcome! If you have ideas, bug reports, or want to add new fe
 
 
 ## Acknowledgements
-Google's Gemini Pro Vision API
-
+Google's Gemini Pro Vision API<br/>
 Streamlit
 
 ## Authors
